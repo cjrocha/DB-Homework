@@ -1,4 +1,4 @@
-# DB-Homework
+# DB-JDBC Postgres
 
 Definiti o baza de date pentru aplicatia de "booking" care sa contina urmatoarele tabele:
 - accomodation: cu urmatoarele  coloane:
